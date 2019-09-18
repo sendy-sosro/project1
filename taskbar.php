@@ -2,5 +2,4 @@
 taskbar
 taskbar2
 taskbar3
-sendy
 ?>
